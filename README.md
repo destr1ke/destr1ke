@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm:
-
-- Artem
 - 👀 interested in web development
 - 🌱 constanly learning new technologies
 - 💞️ looking to collaborate on some React projects
